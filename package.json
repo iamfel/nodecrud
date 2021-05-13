@@ -1,0 +1,24 @@
+{
+  "name": "crudapp",
+  "version": "1.0.0",
+  "description": "simple app that make CRUD operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BashirSidi/crudapp.git"
+  },
+  "author": "Bashir Sidi",
+  "license": "ISC", 
+  "bugs": {
+    "url": "https://github.com/BashirSidi/crudapp/issues"
+  },
+  "homepage": "https://github.com/BashirSidi/crudapp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.8"
+  }
+}
