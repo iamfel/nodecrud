@@ -1,4 +1,4 @@
-# crudapp
+# nodecrud
 
 To create a new user:
 POST =>  http://localhost:3005/users/
@@ -15,4 +15,4 @@ PUT => http://localhost:3005/users/:userId
 To delete a particular user: 
 DELETE => http://localhost:3005/users/:userId
 
-Heroku Links: https://usercrudapp.herokuapp.com/
+Heroku Links: 
